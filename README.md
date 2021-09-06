@@ -1,5 +1,5 @@
 # Warframe-Arbitration-Detector
-###简介
+### 简介
 用于在infested防御仲裁到来时提醒你的小工具
 
 ### 使用方法
